@@ -1,4 +1,0 @@
-
-[INFO] Relatório HTML gerado com sucesso!
-
-✅ Relatório HTML salvo em: relatorio_dafiti.html
